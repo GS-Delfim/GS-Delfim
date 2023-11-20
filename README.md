@@ -16,9 +16,9 @@ Here's a glimpse into what you can find here:
 -->
 Feel free to explore my repositories and projects. Here's a special highlight:
 
-🔭 I’m currently working on TrafegoTop. Check it out at trafegotop.app.
+🔭 I’m currently working on TrafegoTop. Check it out at www.trafegotop.app.
 
-🌱 I’m continuously learning and growing to enhance the capabilities of TrafegoTop and bring more value to users.
+🌱 I’m continuously learning and growing to enhance the capabilities of www.TrafegoTop.app and bring more value to users.
 
 👯 I’m open to collaboration on various projects, but TrafegoTop holds a special place as it evolves.
 
